@@ -21,5 +21,17 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/vnugaFH.gif)
+Here's a walkthrough of implemented user stories (putting it all in one gif would be too large for github):
+
+a) Logging into Twitter, and loading tweets
+
+![](https://i.imgur.com/6eS2LLY.gif)
+
+b) Twitter remembers user, refresh, unlimited scrolling
+
+![](https://i.imgur.com/dZMAunD.gif)
+
+c) User logout
+
+![](https://i.imgur.com/2sxT5kN.gif)
+
